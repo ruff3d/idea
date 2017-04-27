@@ -1,0 +1,47 @@
+<application>
+  <component name="org.jetbrains.tfsIntegration.core.configuration.TFSConfigurationManager">
+    <option name="config">
+      <map>
+        <server uri="http://dev-tfs.kharkov.dbbest.com:8080/">
+          <value>
+            <configuration>
+              <credentials>
+                <credentials>
+                  <domain>DBBEST</domain>
+                  <username>dudarev.d</username>
+                </credentials>
+              </credentials>
+            </configuration>
+          </value>
+        </server>
+        <server uri="http://dev-tfs.kharkov.dbbest.com:8080/tfs/CustomProjects/">
+          <value>
+            <configuration>
+              <credentials>
+                <credentials>
+                  <domain>DBBEST</domain>
+                  <password>dfe7dfc5dfc4dfd9dfdedfcfdfd8dfc1dfc3dfc6dfc6dfd8dfdfdfccdfccdf99dfce</password>
+                  <username>dudarev.d</username>
+                </credentials>
+              </credentials>
+            </configuration>
+          </value>
+        </server>
+        <server uri="http://dev-tfs.kharkov.dbbest.com:8080/tfs/InternalProjects/">
+          <value>
+            <configuration>
+              <credentials>
+                <credentials>
+                  <domain>DBBEST</domain>
+                  <password>dfe7dfc5dfc4dfd9dfdedfcfdfd8dfc1dfc3dfc6dfc6dfd8dfdfdfccdfccdf99dfce</password>
+                  <username>dudarev.d</username>
+                </credentials>
+              </credentials>
+            </configuration>
+          </value>
+        </server>
+      </map>
+    </option>
+    <option name="useIdeaHttpProxy" value="false" />
+  </component>
+</application>
