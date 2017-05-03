@@ -5,23 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="!*.js,!*.htm?" />
     <recentFileMasks>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>webpack.common.j</mask>
-      <mask>php</mask>
-      <mask>*.phphp</mask>
-      <mask>*.phph</mask>
-      <mask>*.php|*.</mask>
-      <mask>*.php|*</mask>
       <mask>*.php|</mask>
       <mask>*.php,*.h</mask>
       <mask>*.php,*.phtml</mask>
@@ -36,6 +21,22 @@
       <mask>*.ph</mask>
       <mask>*.p</mask>
       <mask>*.p*</mask>
+      <mask>!*.p*</mask>
+      <mask>!*.*</mask>
+      <mask>!*.js*</mask>
+      <mask>!*.js</mask>
+      <mask>!*.js|</mask>
+      <mask>!*.js|!</mask>
+      <mask>!*.js|!*</mask>
+      <mask>!*.js|!*.</mask>
+      <mask>!*.js|!*.h</mask>
+      <mask>!*.js|!*.ht</mask>
+      <mask>!*.js|!*.htl</mask>
+      <mask>!*.js|!*.htl*</mask>
+      <mask>!*.js|!*.htm*</mask>
+      <mask>!*.js,!*.htm*</mask>
+      <mask>!*.js,!*.htm</mask>
+      <mask>!*.js,!*.htm?</mask>
     </recentFileMasks>
   </component>
 </application>
