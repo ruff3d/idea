@@ -6,22 +6,36 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>*.ph</mask>
       <mask>*</mask>
-      <mask>*.p</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
-      <mask>*.php</mask>
       <mask>webpack.common.j</mask>
+      <mask>php</mask>
+      <mask>*.phphp</mask>
+      <mask>*.phph</mask>
+      <mask>*.php|*.</mask>
+      <mask>*.php|*</mask>
+      <mask>*.php|</mask>
+      <mask>*.php,*.h</mask>
+      <mask>*.php,*.phtml</mask>
+      <mask>*.php,*.phtm</mask>
+      <mask>*.php,*.pht</mask>
+      <mask>*.php,*.ph</mask>
+      <mask>*.php,*.p</mask>
+      <mask>*.php,*.</mask>
+      <mask>*.php,*</mask>
+      <mask>*.php,</mask>
+      <mask>*.php</mask>
+      <mask>*.ph</mask>
+      <mask>*.p</mask>
+      <mask>*.p*</mask>
     </recentFileMasks>
   </component>
 </application>
