@@ -1,39 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Files" />
-    <option name="defaultScopeName" value="Project Files" />
-    <option name="SEARCH_SCOPE" value="Project Files" />
-    <recentFileMasks>
-      <mask>*.php,*.pht</mask>
-      <mask>*.php,*.ph</mask>
-      <mask>*.php,*.p</mask>
-      <mask>*.php,*.</mask>
-      <mask>*.php,*</mask>
-      <mask>*.php,</mask>
-      <mask>*.php</mask>
-      <mask>*.ph</mask>
-      <mask>*.p</mask>
-      <mask>*.p*</mask>
-      <mask>!*.p*</mask>
-      <mask>!*.*</mask>
-      <mask>!*.js*</mask>
-      <mask>!*.js</mask>
-      <mask>!*.js|</mask>
-      <mask>!*.js|!</mask>
-      <mask>!*.js|!*</mask>
-      <mask>!*.js|!*.</mask>
-      <mask>!*.js|!*.h</mask>
-      <mask>!*.js|!*.ht</mask>
-      <mask>!*.js|!*.htl</mask>
-      <mask>!*.js|!*.htl*</mask>
-      <mask>!*.js|!*.htm*</mask>
-      <mask>!*.js,!*.htm*</mask>
-      <mask>!*.js,!*.htm</mask>
-      <mask>!*.js,!*.htm?</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*</mask>
-    </recentFileMasks>
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>

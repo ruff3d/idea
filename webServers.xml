@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="95b609e3-6fed-4da0-abb4-186beb3badb2" name="MaxiPlant" url="http://maxi.gortestsibir.ru">
+        <fileTransfer host="188.225.37.216" port="7766">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="7766" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
