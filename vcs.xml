@@ -6,6 +6,10 @@
           <option name="url" value="http://gitlab.kharkov.dbbest.com" />
           <option name="userName" value="dudarev.d" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="ruff3d" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
