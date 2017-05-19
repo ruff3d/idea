@@ -5,16 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*.svg,!*.js,!*.htm,!*.styl" />
+    <option name="FILE_MASK" value="!*.svg,!*.js,!*.htm,!*.styl,!*.html" />
     <recentFileMasks>
-      <mask>*.php</mask>
-      <mask>!*.php</mask>
-      <mask>!*.ph</mask>
-      <mask>!*.p</mask>
-      <mask>!*.</mask>
-      <mask>!*.s</mask>
-      <mask>!*.sv</mask>
-      <mask>!*.svg</mask>
       <mask>!*.svg,</mask>
       <mask>!*.svg,!</mask>
       <mask>!*.svg,!*</mask>
@@ -36,7 +28,15 @@
       <mask>!*.svg,!*.js,!*.htm,!*.s</mask>
       <mask>!*.svg,!*.js,!*.htm,!*.st</mask>
       <mask>!*.svg,!*.js,!*.htm,!*.sty</mask>
+      <mask>!*.svg,!*.js,!*.htm?,!*.styl</mask>
       <mask>!*.svg,!*.js,!*.htm,!*.styl</mask>
+      <mask>!*.svg,!*.js,!*.htm,!*.styl,</mask>
+      <mask>!*.svg,!*.js,!*.htm,!*.styl,*.</mask>
+      <mask>!*.svg,!*.js,!*.htm,!*.styl,*.h</mask>
+      <mask>!*.svg,!*.js,!*.htm,!*.styl,*.ht</mask>
+      <mask>!*.svg,!*.js,!*.htm,!*.styl,*.htm</mask>
+      <mask>!*.svg,!*.js,!*.htm,!*.styl,*.html</mask>
+      <mask>!*.svg,!*.js,!*.htm,!*.styl,!*.html</mask>
     </recentFileMasks>
   </component>
 </application>
