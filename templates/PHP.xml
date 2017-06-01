@@ -1,15 +1,11 @@
 <templateSet group="PHP">
-  <template name="=" value="&lt;?= $END$ ?&gt;" description="&lt;?=  ?&gt;" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="HTML" value="true" />
-    </context>
-  </template>
-  <template name="==" value="&lt;?php echo $END$ ?&gt;" description="&lt;?php  echo ?&gt;" toReformat="false" toShortenFQNames="true">
-    <context>
-      <option name="HTML" value="true" />
-    </context>
-  </template>
   <template name="?" value="&lt;?php $END$ ?&gt;" description="&lt;?php ?&gt;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="=" value="&lt;?= $END$; ?&gt;" description="&lt;?=  ?&gt;" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="HTML" value="true" />
     </context>
