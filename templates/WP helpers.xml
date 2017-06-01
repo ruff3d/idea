@@ -1,0 +1,107 @@
+<templateSet group="WP helpers">
+  <template name="act" value="add_action( '$HOOK$', array( $this, '$FUNCTION$' ) );&#10;$END$" description="add_action OOP WordPress" toReformat="true" toShortenFQNames="true">
+    <variable name="HOOK" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="FUNCTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="actp" value="add_action( '$HOOK$','$FUNCTION$' );&#10;$END$" description="add_action procedural WordPress" toReformat="true" toShortenFQNames="true">
+    <variable name="HOOK" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="FUNCTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="fil" value="add_filter( '$HOOK$', array( $this, '$FUNCTION$' ), 10 );&#10;$END$" description="add_filter OOP WordPress" toReformat="true" toShortenFQNames="true">
+    <variable name="HOOK" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="FUNCTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="filp" value="add_filter( '$HOOK$', '$FUNCTION$', 10 );&#10;$END$" description="add_filter procedural WordPress" toReformat="true" toShortenFQNames="true">
+    <variable name="HOOK" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="FUNCTION" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="php" value="&lt;?php &#10;$END$ &#10;?&gt;" description="php tags with a new line" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="phpfor" value="&lt;?php for ( $EXP1$; $EXP2$; $EXP3$ ) : ?&gt;&#10;$END$&#10;&lt;?php endfor; ?&gt;&#10;" description="&lt;?php for...endfor; ?&gt;" toReformat="true" toShortenFQNames="true">
+    <variable name="EXP1" expression="phpVar" defaultValue="&quot;$i=0&quot;" alwaysStopAt="true" />
+    <variable name="EXP2" expression="" defaultValue="&quot;$i&lt;10&quot;" alwaysStopAt="true" />
+    <variable name="EXP3" expression="" defaultValue="&quot;$i++&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="phpfore" value="&lt;?php foreach ( $ITERABLE$ as $VAR_VALUE$ ) : ?&gt;&#10;$END$&#10;&lt;?php endforeach; ?&gt;&#10;" description="&lt;?php foreach...endforeach; ?&gt;" toReformat="true" toShortenFQNames="true">
+    <variable name="ITERABLE" expression="phpVar" defaultValue="" alwaysStopAt="true" />
+    <variable name="VAR_VALUE" expression="phpSuggestVariableName()" defaultValue="&quot;$item&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="phpif" value="&lt;?php if ( $COND$ ) : ?&gt;&#10;$END$&#10;&lt;?php endif; ?&gt;&#10;" description="&lt;?php if... ?&gt;" toReformat="true" toShortenFQNames="true">
+    <variable name="COND" expression="phpSuggestVariableName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="phpife" value="&lt;?php if ( $COND$ ) : ?&gt;&#10;$END$&#9;&#10;&lt;?php else : ?&gt;&#10;&#10;&lt;?php endif; ?&gt;&#10;" description="&lt;?php if...endif; ?&gt;" toReformat="true" toShortenFQNames="true">
+    <variable name="COND" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="phpwil" value="&lt;?php while( $COND$ ) : ?&gt;&#10;$END$&#10;&lt;?php endwhile; ?&gt;&#10;" description="&lt;?php while...endwile; ?&gt;" toReformat="true" toShortenFQNames="true">
+    <variable name="COND" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="tt" value="__('$TEXT$','$TEXTDOMAIN$');&#10;$END$" description="__('text','textdomain')" toReformat="true" toShortenFQNames="true">
+    <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TEXTDOMAIN" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="tte" value="_e('$TEXT$','$TEXTDOMAIN$');&#10;$END$ " description="_e('text','textdomain')" toReformat="true" toShortenFQNames="true">
+    <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TEXTDOMAIN" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="wpcont" value="&lt;?php the_content(); ?&gt;" description="the_content with php tags" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="wpexce" value="&lt;?php the_excerpt(); ?&gt;" description="the_excerpt with php tags" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="wplink" value="&lt;?php the_permalink(); ?&gt;" description="the_permalink with php tags" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="wploop" value="&lt;?php if(have_posts()) :?&gt;&#10;&#9;&lt;?php while(have_posts()) : the_post();?&gt;&#10;&#9;&#9;$END$&#10;&#9;&lt;?php endwhile;?&gt;&#10;&lt;?php else :?&gt;&#10;&#9;&#10;&lt;?php endif;?&gt;" description="wodpress loop with php tags" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="wptitle" value="&lt;?php the_title(); ?&gt;" description="the_title with php tags" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>
