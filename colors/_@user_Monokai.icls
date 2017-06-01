@@ -4,7 +4,7 @@
     <property name="created">2017-02-10T11:10:16</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2017-04-06T20:41:24</property>
+    <property name="modified">2017-05-26T16:43:32</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="14" />
@@ -235,9 +235,20 @@
         <option name="FOREGROUND" value="ffffff" />
       </value>
     </option>
+    <option name="CONSOLE_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="fd971f" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="CONSOLE_RED_OUTPUT">
       <value>
         <option name="FOREGROUND" value="ff6767" />
+      </value>
+    </option>
+    <option name="CONSOLE_SELECTED_PARAMETER">
+      <value>
+        <option name="BACKGROUND" value="4f4f82" />
       </value>
     </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
@@ -254,6 +265,11 @@
     <option name="CONSOLE_YELLOW_OUTPUT">
       <value>
         <option name="FOREGROUND" value="754200" />
+      </value>
+    </option>
+    <option name="CSS.COMMA">
+      <value>
+        <option name="FOREGROUND" value="5c7ab8" />
       </value>
     </option>
     <option name="CSS.COMMENT">
@@ -664,6 +680,27 @@
     <option name="GQL_STRING_LITERAL">
       <value>
         <option name="FOREGROUND" value="e6db74" />
+      </value>
+    </option>
+    <option name="GRID_ERROR_VALUE">
+      <value>
+        <option name="EFFECT_COLOR" value="ff6767" />
+        <option name="ERROR_STRIPE_COLOR" value="cf5b56" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="GRID_IMAGE_VALUE">
+      <value>
+        <option name="FOREGROUND" value="3c3d3c" />
+        <option name="BACKGROUND" value="101010" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="3c3d3c" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="GRID_NULL_VALUE">
+      <value>
+        <option name="FOREGROUND" value="75715e" />
       </value>
     </option>
     <option name="HAML_CLASS">
