@@ -5,9 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="!*.svg,!*.js,!*.htm,!*.styl,!*.html,*.php" />
     <recentFileMasks>
-      <mask>!*.svg,!*.js,*</mask>
       <mask>!*.svg,!*.js,</mask>
       <mask>!*.svg,!*.js,!.</mask>
       <mask>!*.svg,!*.js,!</mask>
@@ -32,11 +30,12 @@
       <mask>!*.svg,!*.js,!*.htm,!*.styl,*.htm</mask>
       <mask>!*.svg,!*.js,!*.htm,!*.styl,*.html</mask>
       <mask>!*.svg,!*.js,!*.htm,!*.styl,!*.html</mask>
-      <mask>!*.svg,!*.js,!*.htm,!*.styl,!*.html,</mask>
-      <mask>!*.svg,!*.js,!*.htm,!*.styl,!*.html,*</mask>
-      <mask>!*.svg,!*.js,!*.htm,!*.styl,!*.html,*.</mask>
-      <mask>!*.svg,!*.js,!*.htm,!*.styl,!*.html,*.p</mask>
-      <mask>!*.svg,!*.js,!*.htm,!*.styl,!*.html,*.php</mask>
+      <mask>.</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.ph</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
