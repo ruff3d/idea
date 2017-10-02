@@ -5,12 +5,7 @@
         <option name="apiUrl" value="unix:///var/run/docker.sock" />
         <option name="certificatesPath" />
         <option name="pathMappings">
-          <list>
-            <DockerPathMappingImpl>
-              <option name="localPath" value="$USER_HOME$/projects/LAMP/" />
-              <option name="virtualMachinePath" value="/" />
-            </DockerPathMappingImpl>
-          </list>
+          <list />
         </option>
       </configuration>
     </remote-server>
