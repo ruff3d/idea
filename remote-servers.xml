@@ -7,8 +7,8 @@
         <option name="pathMappings">
           <list>
             <DockerPathMappingImpl>
-              <option name="localPath" value="$USER_HOME$/projects/LAMP/web/crowdsale" />
-              <option name="virtualMachinePath" value="/var/www/html/crowdsale" />
+              <option name="localPath" value="$USER_HOME$/projects/LAMP/" />
+              <option name="virtualMachinePath" value="/" />
             </DockerPathMappingImpl>
           </list>
         </option>
