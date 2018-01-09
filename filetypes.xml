@@ -4,12 +4,13 @@
       <removed_mapping pattern=".env" type=".env file" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern=".gitkeep" type="Ignore file" />
+      <mapping ext="lock" type="JSON" />
       <mapping ext="tpl" type="PHP" />
       <mapping ext="ctp" type="PHP" />
       <mapping pattern="ftp_search_will_look_for_this_file" type="PLAIN_TEXT" />
-      <mapping ext="1810036786" type="PLAIN_TEXT" />
-      <mapping ext="enc" type="PLAIN_TEXT" />
       <mapping ext="go" type="PLAIN_TEXT" />
+      <mapping ext="enc" type="PLAIN_TEXT" />
+      <mapping ext="1810036786" type="PLAIN_TEXT" />
       <removed_mapping ext="tpl" type="Smarty" />
       <mapping pattern=".env" type="YAML" />
     </extensionMap>
