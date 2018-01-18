@@ -1,0 +1,53 @@
+<scheme name="_@user_Default" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2017-11-23T16:40:34</property>
+    <property name="ide">GoLand</property>
+    <property name="ideVersion">1.0.0.0</property>
+    <property name="modified">2017-11-29T18:34:14</property>
+    <property name="originalScheme">Default</property>
+  </metaInfo>
+  <attributes>
+    <option name="FOLDED_TEXT_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="ffffff" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="GO_BUILTIN_TYPE_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="487faf" />
+      </value>
+    </option>
+    <option name="GO_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="a7" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="GO_LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="4ca832" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="GO_PACKAGE_LOCAL_INTERFACE">
+      <value>
+        <option name="FOREGROUND" value="804537" />
+      </value>
+    </option>
+    <option name="GO_STRING">
+      <value>
+        <option name="FOREGROUND" value="804537" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="ffffff" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

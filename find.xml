@@ -2,40 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>!*.svg,!*.js,</mask>
-      <mask>!*.svg,!*.js,!.</mask>
-      <mask>!*.svg,!*.js,!</mask>
-      <mask>!*.svg,!*.js,!*</mask>
-      <mask>!*.svg,!*.js,!*.</mask>
-      <mask>!*.svg,!*.js,!*.h</mask>
-      <mask>!*.svg,!*.js,!*.ht</mask>
-      <mask>!*.svg,!*.js,!*.htm</mask>
-      <mask>!*.svg,!*.js,!*.htm,</mask>
-      <mask>!*.svg,!*.js,!*.htm,!</mask>
-      <mask>!*.svg,!*.js,!*.htm,!*</mask>
-      <mask>!*.svg,!*.js,!*.htm,!*.</mask>
-      <mask>!*.svg,!*.js,!*.htm,!*.s</mask>
-      <mask>!*.svg,!*.js,!*.htm,!*.st</mask>
-      <mask>!*.svg,!*.js,!*.htm,!*.sty</mask>
-      <mask>!*.svg,!*.js,!*.htm?,!*.styl</mask>
-      <mask>!*.svg,!*.js,!*.htm,!*.styl</mask>
-      <mask>!*.svg,!*.js,!*.htm,!*.styl,</mask>
-      <mask>!*.svg,!*.js,!*.htm,!*.styl,*.</mask>
-      <mask>!*.svg,!*.js,!*.htm,!*.styl,*.h</mask>
-      <mask>!*.svg,!*.js,!*.htm,!*.styl,*.ht</mask>
-      <mask>!*.svg,!*.js,!*.htm,!*.styl,*.htm</mask>
-      <mask>!*.svg,!*.js,!*.htm,!*.styl,*.html</mask>
-      <mask>!*.svg,!*.js,!*.htm,!*.styl,!*.html</mask>
-      <mask>.</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
-      <mask>*.ph</mask>
-      <mask>*.php</mask>
-    </recentFileMasks>
   </component>
 </application>
