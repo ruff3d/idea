@@ -817,6 +817,13 @@
             </list>
           </value>
         </entry>
+        <entry key="fastify">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
         <entry key="fbr-client">
           <value>
             <list>
