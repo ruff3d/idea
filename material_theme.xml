@@ -9,7 +9,6 @@
     <option name="accentColor" value="80cbc4" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
-    <option name="upperCaseTabs" value="true" />
     <option name="darkTitleBar" value="true" />
   </component>
 </application>
