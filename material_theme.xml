@@ -1,0 +1,16 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="version" value="1.6.0.4" />
+    <option name="highlightColor" value="80cbc4" />
+    <option name="highlightColorEnabled" value="true" />
+    <option name="highlightThickness" value="1" />
+    <option name="isContrastMode" value="true" />
+    <option name="isBoldTabs" value="true" />
+    <option name="isCustomTreeIndentEnabled" value="true" />
+    <option name="customTreeIndent" value="8" />
+    <option name="accentColor" value="80cbc4" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="isCompactTables" value="true" />
+    <option name="darkTitleBar" value="true" />
+  </component>
+</application>
