@@ -27,8 +27,10 @@
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="sqlserver.jtds">
-      <artifact name="jTDS (SQL Server and Sybase)" use="true" />
+      <artifact name="jTDS (SQL Server and Sybase)" use="true" version="1.3.1.1" />
       <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="true" />
+      <option name="send-app-info" value="true" />
     </driver>
     <driver id="hsqldb.local">
       <artifact name="HSQLDB" use="true" />
@@ -60,7 +62,7 @@
       <option name="auto-sync" value="false" />
     </driver>
     <driver id="sqlserver.ms">
-      <artifact name="SQL Server" rolling="false" use="true" version="6.0.8112.100" />
+      <artifact name="SQL Server" use="true" version="6.0.8112.100" />
       <option name="auto-sync" value="true" />
       <option name="send-app-info" value="false" />
       <option name="auto-commit" value="true" />
