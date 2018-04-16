@@ -7,9 +7,6 @@
       <webServer id="f6aaca97-ab85-456f-bfd1-857a32fa1293" name="feathers" url="http://localhost">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
-      <webServer id="cab3775f-7c5a-46c0-97c3-3bc089568d06" name="test-task" url="http://localhost">
-        <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
     </option>
   </component>
 </application>
