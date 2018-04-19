@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <removed_mapping pattern=".env" type=".env file" />
+      <mapping pattern="DockerFile" type="Dockerfile" />
       <mapping pattern="test.js" type="ECMAScript 6" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern=".gitkeep" type="Ignore file" />
