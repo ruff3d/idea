@@ -27,8 +27,10 @@
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="sqlserver.jtds">
-      <artifact name="jTDS (SQL Server and Sybase)" use="true" />
+      <artifact name="jTDS (SQL Server and Sybase)" use="true" version="1.3.1.1" />
       <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="true" />
+      <option name="send-app-info" value="true" />
     </driver>
     <driver id="hsqldb.local">
       <artifact name="HSQLDB" use="true" />
@@ -60,16 +62,17 @@
       <option name="auto-sync" value="false" />
     </driver>
     <driver id="sqlserver.ms">
-      <artifact name="SQL Server" use="true" />
+      <artifact name="SQL Server" use="true" version="6.0.8112.100" />
       <option name="auto-sync" value="true" />
       <option name="send-app-info" value="false" />
+      <option name="auto-commit" value="true" />
     </driver>
     <driver id="db2.jtopen">
       <artifact name="JTOpen (DB2 iSeries)" use="true" />
       <option name="auto-sync" value="false" />
     </driver>
     <driver id="mysql">
-      <artifact name="MySQL Connector/J" use="true" version="5.1.44" />
+      <artifact name="MySQL Connector/J" use="true" version="5.1.46" />
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="true" />
       <option name="send-app-info" value="true" />

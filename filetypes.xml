@@ -1,14 +1,16 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".gitignore_global" type="Git file" />
-      <mapping pattern=".gitkeep" type="Ignore file" />
+      <mapping pattern="DockerFile" type="Dockerfile" />
+      <mapping pattern="test.js" type="ECMAScript 6" />
       <mapping ext="lock" type="JSON" />
       <mapping ext="ctp" type="PHP" />
       <mapping pattern="ftp_search_will_look_for_this_file" type="PLAIN_TEXT" />
       <mapping ext="1810036786" type="PLAIN_TEXT" />
       <mapping ext="enc" type="PLAIN_TEXT" />
       <mapping ext="go" type="PLAIN_TEXT" />
+      <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern=".gitkeep" type="Ignore file" />
     </extensionMap>
   </component>
 </application>
