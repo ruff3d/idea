@@ -6,14 +6,14 @@
   </component>
   <component name="PhpCodeSniffer">
     <phpcs_settings>
-      <PhpCSConfiguration max_messages_per_file="99" standards="MySource;PEAR;PSR1;PSR2;Squiz;WordPress;WordPress-Core;WordPress-Docs;WordPress-Extra;WordPress-VIP;Zend" timeout="30000" tool_path="$USER_HOME$/projects/wpcs/vendor/bin/phpcs" />
+      <PhpCSConfiguration max_messages_per_file="99" standards="MySource;PEAR;PSR1;PSR2;Squiz;WordPress;WordPress-Core;WordPress-Docs;WordPress-Extra;WordPress-VIP;Zend" timeout="30000" tool_path="$USER_HOME$/projects/msp-rmm-server/vendor/squizlabs/php_codesniffer/bin/phpcs" />
     </phpcs_settings>
   </component>
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter home="/usr/local/Cellar/php71/7.1.2_13/bin/php" id="52f9b040-5a9a-457f-b036-f69aba22ad66" name="PHP 7.1" debugger_id="php.debugger.XDebug" />
-      <interpreter home="vagrant:///Users/user/Projects/nic/usr/bin/php" id="1a6972bd-7346-41e8-b204-4056b6ddf8b7" name="Remote PHP 5.6" debugger_id="php.debugger.XDebug">
-        <remote_data VAGRANT_FOLDER="$USER_HOME$/Projects/nic" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
+      <interpreter home="docker://msp-rmm-server_apache:latest//usr/bin/php" id="1a6972bd-7346-41e8-b204-4056b6ddf8b7" name="Remote PHP 5.6" debugger_id="php.debugger.XDebug">
+        <remote_data DOCKER_ACCOUNT_NAME="Docker" DOCKER_IMAGE_NAME="msp-rmm-server_apache:latest" DOCKER_REMOTE_PROJECT_PATH="/opt/project" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
       <interpreter home="/usr/bin/php" id="82f9a18a-9a50-4c32-9683-11da762404b1" name="PHP 5.6" debugger_id="php.debugger.XDebug" />
       <interpreter home="/usr/local/bin/php" id="d83aa930-5e06-476f-9ca3-0846aeed0c72" name="PHP 7.2" debugger_id="php.debugger.XDebug" />
