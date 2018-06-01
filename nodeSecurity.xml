@@ -23,14 +23,14 @@
             </list>
           </value>
         </entry>
-        <entry key="@vivaxy/here">
+        <entry key="626">
           <value>
             <list>
               <Advisory />
             </list>
           </value>
         </entry>
-        <entry key="Morris.js">
+        <entry key="@vivaxy/here">
           <value>
             <list>
               <Advisory />
@@ -86,7 +86,22 @@
             </list>
           </value>
         </entry>
+        <entry key="angular-http-server">
+          <value>
+            <list>
+              <Advisory />
+              <Advisory />
+            </list>
+          </value>
+        </entry>
         <entry key="ansi2html">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="anywhere">
           <value>
             <list>
               <Advisory />
@@ -135,6 +150,20 @@
             </list>
           </value>
         </entry>
+        <entry key="assign-deep">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="atob">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
         <entry key="atom-node-module-installer">
           <value>
             <list>
@@ -177,6 +206,20 @@
             </list>
           </value>
         </entry>
+        <entry key="base64-url">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="base64url">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
         <entry key="bassmaster">
           <value>
             <list>
@@ -206,6 +249,13 @@
           </value>
         </entry>
         <entry key="bkjs-wand">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="bl">
           <value>
             <list>
               <Advisory />
@@ -247,7 +297,28 @@
             </list>
           </value>
         </entry>
+        <entry key="bracket-template">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
         <entry key="broccoli-closure">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="buttle">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="byte">
           <value>
             <list>
               <Advisory />
@@ -366,6 +437,13 @@
             </list>
           </value>
         </entry>
+        <entry key="cloudcmd">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
         <entry key="cloudpub-redis">
           <value>
             <list>
@@ -429,7 +507,28 @@
             </list>
           </value>
         </entry>
+        <entry key="command-exists">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
         <entry key="commentapp.stetsonwood">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="concat-stream">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="concat-with-sourcemaps">
           <value>
             <list>
               <Advisory />
@@ -444,6 +543,13 @@
           </value>
         </entry>
         <entry key="console-io">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="constantinople">
           <value>
             <list>
               <Advisory />
@@ -472,6 +578,13 @@
           </value>
         </entry>
         <entry key="crossenv">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="crud-file-server">
           <value>
             <list>
               <Advisory />
@@ -597,6 +710,13 @@
             </list>
           </value>
         </entry>
+        <entry key="deap">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
         <entry key="debug">
           <value>
             <list>
@@ -605,6 +725,20 @@
           </value>
         </entry>
         <entry key="decamelize">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="deep-extend">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="default-deep">
           <value>
             <list>
               <Advisory />
@@ -707,6 +841,7 @@
         <entry key="electron">
           <value>
             <list>
+              <Advisory />
               <Advisory />
               <Advisory />
             </list>
@@ -866,6 +1001,20 @@
             </list>
           </value>
         </entry>
+        <entry key="floody">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="foreman">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
         <entry key="forms">
           <value>
             <list>
@@ -895,6 +1044,13 @@
           </value>
         </entry>
         <entry key="fs-git">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="fs-path">
           <value>
             <list>
               <Advisory />
@@ -957,6 +1113,13 @@
             </list>
           </value>
         </entry>
+        <entry key="general-file-server">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
         <entry key="geoip-lite-country">
           <value>
             <list>
@@ -965,6 +1128,13 @@
           </value>
         </entry>
         <entry key="getcityapi.yoehoehne">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="getcookies">
           <value>
             <list>
               <Advisory />
@@ -981,6 +1151,14 @@
         <entry key="gitbook">
           <value>
             <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="glance">
+          <value>
+            <list>
+              <Advisory />
               <Advisory />
             </list>
           </value>
@@ -1151,6 +1329,14 @@
             </list>
           </value>
         </entry>
+        <entry key="hekto">
+          <value>
+            <list>
+              <Advisory />
+              <Advisory />
+            </list>
+          </value>
+        </entry>
         <entry key="herbivore">
           <value>
             <list>
@@ -1159,6 +1345,13 @@
           </value>
         </entry>
         <entry key="hftp">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="hoek">
           <value>
             <list>
               <Advisory />
@@ -1179,7 +1372,29 @@
             </list>
           </value>
         </entry>
+        <entry key="html-janitor">
+          <value>
+            <list>
+              <Advisory />
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="html-pages">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
         <entry key="http-proxy">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="http-proxy-agent">
           <value>
             <list>
               <Advisory />
@@ -1201,6 +1416,13 @@
           </value>
         </entry>
         <entry key="http_static_simple">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="https-proxy-agent">
           <value>
             <list>
               <Advisory />
@@ -1337,6 +1559,7 @@
         <entry key="is-my-json-valid">
           <value>
             <list>
+              <Advisory />
               <Advisory />
             </list>
           </value>
@@ -1539,6 +1762,13 @@
             </list>
           </value>
         </entry>
+        <entry key="ladder-text-js">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
         <entry key="ldapauth">
           <value>
             <list>
@@ -1630,6 +1860,21 @@
             </list>
           </value>
         </entry>
+        <entry key="localhost-now">
+          <value>
+            <list>
+              <Advisory />
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="lodash">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
         <entry key="looppake">
           <value>
             <list>
@@ -1659,6 +1904,13 @@
           </value>
         </entry>
         <entry key="macaca-chromedriver-zxa">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="macaddress">
           <value>
             <list>
               <Advisory />
@@ -1713,6 +1965,27 @@
             </list>
           </value>
         </entry>
+        <entry key="mcstatic">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="merge-deep">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="metascraper">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
         <entry key="method-override">
           <value>
             <list>
@@ -1755,6 +2028,13 @@
             </list>
           </value>
         </entry>
+        <entry key="mixin-deep">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
         <entry key="mobile-icon-resizer">
           <value>
             <list>
@@ -1784,7 +2064,21 @@
             </list>
           </value>
         </entry>
+        <entry key="mongoose">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
         <entry key="mongose">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="morris.js">
           <value>
             <list>
               <Advisory />
@@ -1800,6 +2094,13 @@
           </value>
         </entry>
         <entry key="mqtt-packet">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="mrk.js">
           <value>
             <list>
               <Advisory />
@@ -1851,6 +2152,7 @@
         <entry key="mysql">
           <value>
             <list>
+              <Advisory />
               <Advisory />
             </list>
           </value>
@@ -2016,6 +2318,13 @@
             </list>
           </value>
         </entry>
+        <entry key="node-srv">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
         <entry key="node-thulac">
           <value>
             <list>
@@ -2128,6 +2437,13 @@
             </list>
           </value>
         </entry>
+        <entry key="nothing-js">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
         <entry key="npm">
           <value>
             <list>
@@ -2144,6 +2460,13 @@
           </value>
         </entry>
         <entry key="npm-test-sqlite3-trunk">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="npmconf">
           <value>
             <list>
               <Advisory />
@@ -2172,6 +2495,13 @@
           </value>
         </entry>
         <entry key="nw-with-arm">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="open">
           <value>
             <list>
               <Advisory />
@@ -2220,6 +2550,13 @@
             </list>
           </value>
         </entry>
+        <entry key="openwhisk">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
         <entry key="operadriver">
           <value>
             <list>
@@ -2249,6 +2586,13 @@
           </value>
         </entry>
         <entry key="paypal-ipn">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="pdfinfojs">
           <value>
             <list>
               <Advisory />
@@ -2381,9 +2725,24 @@
             </list>
           </value>
         </entry>
+        <entry key="protobufjs">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
         <entry key="proxy.js">
           <value>
             <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="public">
+          <value>
+            <list>
+              <Advisory />
               <Advisory />
             </list>
           </value>
@@ -2417,7 +2776,28 @@
             </list>
           </value>
         </entry>
+        <entry key="query-mysql">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
         <entry key="quickserver">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="randomatic">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="react-marked-markdown">
           <value>
             <list>
               <Advisory />
@@ -2431,7 +2811,7 @@
             </list>
           </value>
         </entry>
-        <entry key="react-native-meteor-oauth">
+        <entry key="react-svg">
           <value>
             <list>
               <Advisory />
@@ -2488,6 +2868,13 @@
             </list>
           </value>
         </entry>
+        <entry key="resolve-path">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
         <entry key="resourcehacker">
           <value>
             <list>
@@ -2503,6 +2890,13 @@
           </value>
         </entry>
         <entry key="restify">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="rgb2hex">
           <value>
             <list>
               <Advisory />
@@ -2559,6 +2953,13 @@
           </value>
         </entry>
         <entry key="sails">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="saml2-js">
           <value>
             <list>
               <Advisory />
@@ -2709,6 +3110,7 @@
         <entry key="serve">
           <value>
             <list>
+              <Advisory />
               <Advisory />
             </list>
           </value>
@@ -2867,6 +3269,20 @@
             </list>
           </value>
         </entry>
+        <entry key="simple-server">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="simplehttpserver">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
         <entry key="slimerjs-edge">
           <value>
             <list>
@@ -2909,6 +3325,13 @@
             </list>
           </value>
         </entry>
+        <entry key="sql">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
         <entry key="sqlite.js">
           <value>
             <list>
@@ -2930,7 +3353,28 @@
             </list>
           </value>
         </entry>
+        <entry key="squel">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="sshpk">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
         <entry key="sspa">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="ssri">
           <value>
             <list>
               <Advisory />
@@ -2959,6 +3403,13 @@
             </list>
           </value>
         </entry>
+        <entry key="stattic">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
         <entry key="steroids">
           <value>
             <list>
@@ -2980,6 +3431,13 @@
             </list>
           </value>
         </entry>
+        <entry key="stringstream">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
         <entry key="summit">
           <value>
             <list>
@@ -2988,6 +3446,13 @@
           </value>
         </entry>
         <entry key="superagent">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="superstatic">
           <value>
             <list>
               <Advisory />
@@ -3099,6 +3564,13 @@
           <value>
             <list>
               <Advisory />
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="tunnel-agent">
+          <value>
+            <list>
               <Advisory />
             </list>
           </value>
@@ -3261,6 +3733,13 @@
           </value>
         </entry>
         <entry key="wffserve">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="whereis">
           <value>
             <list>
               <Advisory />
