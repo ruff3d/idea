@@ -14,5 +14,6 @@
     <option name="isCompactTables" value="true" />
     <option name="customSidebarHeight" value="24" />
     <option name="darkTitleBar" value="true" />
+    <option name="compactDropdowns" value="true" />
   </component>
 </application>
