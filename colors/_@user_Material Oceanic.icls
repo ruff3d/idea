@@ -4,7 +4,7 @@
     <property name="created">2018-01-25T16:39:11</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.3.0.0</property>
-    <property name="modified">2018-02-15T16:28:35</property>
+    <property name="modified">2018-06-20T19:00:57</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="Fira Mono for Powerline" />
@@ -61,7 +61,7 @@
     <option name="VCS_ANNOTATIONS_COLOR_3" value="37474f" />
     <option name="VCS_ANNOTATIONS_COLOR_4" value="39adb5" />
     <option name="VCS_ANNOTATIONS_COLOR_5" value="f07178" />
-    <option name="WHITESPACES" value="2e3c43" />
+    <option name="WHITESPACES" value="6a899a" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="546e7a" />
   </colors>
   <attributes>
