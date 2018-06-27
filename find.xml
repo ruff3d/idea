@@ -15,5 +15,6 @@
     <mask>*.php</mask>
     <mask>*.py</mask>
     <mask>*.js</mask>
+    <mask>*.po</mask>
   </component>
 </application>
