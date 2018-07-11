@@ -58,7 +58,7 @@
       <option name="auto-sync" value="true" />
       <option name="schema-control" value="MANUAL" />
     </driver>
-    <driver id="redshift">
+    <driver id="redshift" driver-class="com.amazon.redshift.jdbc42.Driver">
       <url-template name="default" template="jdbc:redsjdbc:redshift:iam://bravo-redshiftstaging.cvtalimtvy7o.eu-west-1.redshift.amazonaws.com:5439/bravo?AccessKeyID=AKIAIVTKZZG7PXCKSAPQ&amp;SecretAccessKey=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" />
       <artifact name="Redshift" use="true" version="1.2.10.1009" />
       <option name="auto-sync" value="true" />
