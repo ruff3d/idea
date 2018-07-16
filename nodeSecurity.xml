@@ -889,6 +889,27 @@
             </list>
           </value>
         </entry>
+        <entry key="eslint-config-airbnb-standard">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="eslint-config-eslint">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="eslint-scope">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
         <entry key="ewgaddis.lab6">
           <value>
             <list>
