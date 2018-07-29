@@ -889,6 +889,27 @@
             </list>
           </value>
         </entry>
+        <entry key="eslint-config-airbnb-standard">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="eslint-config-eslint">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="eslint-scope">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
         <entry key="ewgaddis.lab6">
           <value>
             <list>
@@ -2592,6 +2613,13 @@
             </list>
           </value>
         </entry>
+        <entry key="pdf-image">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
         <entry key="pdfinfojs">
           <value>
             <list>
@@ -3112,6 +3140,7 @@
             <list>
               <Advisory />
               <Advisory />
+              <Advisory />
             </list>
           </value>
         </entry>
@@ -3207,6 +3236,13 @@
           </value>
         </entry>
         <entry key="serverzyy">
+          <value>
+            <list>
+              <Advisory />
+            </list>
+          </value>
+        </entry>
+        <entry key="sexstatic">
           <value>
             <list>
               <Advisory />
